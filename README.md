@@ -17,7 +17,7 @@ clone project atau download
   cd backend-laravel
   composer install
   cp .env.example .env
-### frontend
+### frontend ###
   cd frontend-react
   npm install
 
