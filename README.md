@@ -46,11 +46,13 @@ Install website & database
 ```
 
 Jalankan website
-## backend
+### backend
+masuk folder backend-laravel di terminal lalu jalankan 
 ```bash
-  masuk folder backend-laravel di terminal lalu jalankan (php artisan serve)
+  php artisan serve
 ```
-## frontend
+### frontend
+masuk folder frontend-react di terminal lalu jalankan 
 ```bash
-  masuk folder frontend-react di terminal lalu jalankan (npm start)
+  npm start
 ```
