@@ -13,18 +13,22 @@ clone project atau download
 ```bash
   git clone https://github.com/auditasya12/Sistem-Prestasi-Mahasiswa.git
   cd Marketplace-LaravelReact
-## backend 
+```
+### backend 
+```bash
   cd backend-laravel
   composer install
   cp .env.example .env
+```
 ## frontend
+```bash
   cd frontend-react
   npm install
-
 jika error jalankan
   npm install --legacy-peer-deps
   npm install --force
 ```
+
 
 
 Masuk folder backend-laravel (buka `.env` dan atur database anda)
